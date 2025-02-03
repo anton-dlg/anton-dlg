@@ -1,11 +1,11 @@
 ### Anton De la Garza
-## Estudio: Ciencia de Datos y Matemáticas
+## Estudiante de Ciencia de Datos y Matemáticas
 -------------
 # Lenguages:
 - Python
-- C++
 - SQL
+- C++
+- R
+- HTML/CSS/JS
 
-# Proyectos actuales:
-- Manejo de datos en SQL
-- Juego en C# y Unity
+
